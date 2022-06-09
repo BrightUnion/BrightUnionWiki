@@ -1,7 +1,5 @@
 ---
 description: Welcome to visit Bright Union Wiki!
-cover: .gitbook/assets/图片 (5).png
-coverY: -240.17403915881073
 ---
 
 # 欢迎访问 光明联盟 Wiki
