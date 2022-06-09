@@ -18,22 +18,22 @@ description: Bright Union - 光明联盟
 
 ## 关注光明联盟新媒体矩阵
 
-* 光明联盟网站：[https://brightunion.netlify.app/](https://brightunion.netlify.app/)
+* 光明联盟网站：[https://www.brightunion.xyz/](https://www.brightunion.xyz/)
 * 微信公众号：光联先锋（微信号：UL\_2011）
 * 微信视频号：光联先锋
 * 哔哩哔哩：@光联先锋（UID：510359390）
 * 腾讯看点：光联先锋
 * 腾讯新闻：光联先锋
 
-![](<.gitbook/assets/图片 (6).png>)
+![](<../.gitbook/assets/图片 (6).png>)
 
-![](<.gitbook/assets/图片 (5).png>)
+![](<../.gitbook/assets/图片 (5).png>)
 
 ## 旗下社群
 
 真理学院战车部（光明联盟旗下统一战线）（频道号：ngzpq4438q）：[https://qun.qq.com/qqweb/qunpro/share?\_wv=3&\_wwv=128\&inviteCode=F3Gqh\&from=246610\&biz=ka](https://qun.qq.com/qqweb/qunpro/share?\_wv=3&\_wwv=128\&inviteCode=F3Gqh\&from=246610\&biz=ka)
 
-![](<.gitbook/assets/图片 (4).png>)
+![](<../.gitbook/assets/图片 (4).png>)
 
 ## 支持我们 <a href="#zhi-chi-wo-men" id="zhi-chi-wo-men"></a>
 

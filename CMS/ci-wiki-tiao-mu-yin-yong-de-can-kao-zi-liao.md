@@ -1,8 +1,8 @@
 ---
-description: 此 Wiki 引用的参考资料
+description: 此 Wiki 条目引用的参考资料
 ---
 
-# 此 Wiki 引用的参考资料
+# 此 Wiki 条目引用的参考资料
 
 * Hexo官网：[https://hexo.io/zh-cn/index.html](https://hexo.io/zh-cn/index.html)
 * Fluid主题文档：[https://fluid-dev.github.io/hexo-fluid-docs/](https://fluid-dev.github.io/hexo-fluid-docs/)
