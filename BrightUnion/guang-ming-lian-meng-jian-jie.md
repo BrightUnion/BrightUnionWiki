@@ -19,6 +19,7 @@ description: Bright Union - 光明联盟
 ## 关注光明联盟新媒体矩阵
 
 * 光明联盟网站：[https://www.brightunion.xyz/](https://www.brightunion.xyz/)
+* 红色曙光快讯（RAD）网站：[https://rad.brightunion.xyz/](https://rad.brightunion.xyz/)
 * 微信公众号：光联先锋（微信号：UL\_2011）
 * 微信视频号：光联先锋
 * 哔哩哔哩：@光联先锋（UID：510359390）
